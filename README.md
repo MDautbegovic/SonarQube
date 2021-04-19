@@ -1,2 +1,2 @@
 # SonarQube-DockerCompose
-SonarQube docker dompose file for running SonarQube in production.
+SonarQube docker-compose file for running SonarQube in production.
